@@ -1,0 +1,8 @@
+node_modules/
+.gradle/
+build/
+dist/
+.angular/
+.idea/
+.vscode/
+*.tar
